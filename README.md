@@ -1,4 +1,4 @@
-# Cybersecurity Sample Reports
+# Cybersecurity  Reports
 
 Hi, I'm Rizwan — a Freelance Cybersecurity Support Specialist.
 
