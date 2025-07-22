@@ -1,0 +1,11 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2025-07-21 18:00 PKT
+Nmap scan report for 192.168.1.10
+Host is up (0.00049s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+3306/tcp open  mysql
+
+Service detection performed. OS: Linux (kernel 5.x); CPE: cpe:/o:linux:linux_kernel
