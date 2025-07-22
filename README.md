@@ -2,7 +2,7 @@
 
 Hi, I'm Rizwan — a Freelance Cybersecurity Support Specialist.
 
-This repository contains sample security assessments I've created using tools like Nmap, Nessus, and Wireshark. These reports reflect real-world tasks I've performed through simulated labs and freelance training projects.
+This repository contains  security assessments I've created using tools like Nmap, Nessus, and Wireshark. These reports reflect real-world tasks I've performed through simulated labs and freelance training projects.
 
 ## 📂 Contents
 - **nmap_scan.txt** – Basic open port and service scan
